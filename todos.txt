@@ -1,4 +1,8 @@
-Clean the code
-Do the laundry
-Fix the house
+Clean the program
+Do the dishes
+Wash the car
 Master Python
+Buy groceries
+Wash clothes
+Fix the car
+
